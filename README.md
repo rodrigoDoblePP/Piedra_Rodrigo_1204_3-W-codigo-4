@@ -25,3 +25,5 @@ else:
     print ("El menor es: "  ,  menor )                   #Imprimimos el menor de los numeros
 
 ![imagen](https://github.com/user-attachments/assets/65b6e35e-3002-4ff8-8330-d37b403058ac)
+
+![imagen](https://github.com/user-attachments/assets/8caf606f-2dc5-4502-b488-a1ec371acbc5)
